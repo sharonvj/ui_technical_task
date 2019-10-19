@@ -1,0 +1,18 @@
+.custom-box {
+	margin:auto;
+}
+.custom-box:before{
+	min-height:70px;
+	content:' ';
+	display:block;
+}
+.pull-right{
+	float: right;
+}
+.nodata{
+	text-align: center;
+    background-color: #ddd;
+}
+.dahboard-link{
+	padding-right: 10px
+}
